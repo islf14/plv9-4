@@ -19,6 +19,10 @@ class RouteServiceProvider extends ServiceProvider
      */
     public const HOME = '/logueado';
 
+    public const DASH = '/dashboard';
+
+    public const TABLA = '/tabla';
+
     /**
      * Define your route model bindings, pattern filters, and other route configuration.
      *
